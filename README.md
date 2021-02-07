@@ -4,4 +4,3 @@
 - 🌱 I’m currently learning **[Nextjs](https://github.com/vercel/next.js/)**
 - 💬 Ask me about JavaScript
 - 📫 How to reach me: **me@saulflorez.com**
-- 😄 Pronouns: **sherzo**
